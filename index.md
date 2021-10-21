@@ -1,37 +1,154 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yanbinzhen/yanbinzhen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanbinzhen/yanbinzhen/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <!DOCTYPE html>
+ <html>
+ <head>
+     <meta charset="utf-8">
+     <title>个人简历</title>
+     <style>
+         body,*{
+             margin: 0；
+         }
+         body{
+             background:white;
+         }
+     </style>
+ </head>
+     <table border="2" cellspacing="0px" style="margin:auto;" width="800px">
+         <h3  align="center">个人简历</h3>
+         <tr height="50"  style="text-align: center;">
+             <td rowspan="2" >姓名</td>
+             <td rowspan="2" width="100">  </td>
+             <td width="100">性别</td>
+             <td width="100">  </td>
+             <td>文化程度</td>
+             <td width="100"></td>
+             <td  rowspan="3" width="120">照片</td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td>身高</td>
+             <td></td>
+             <td>政治面貌</td>
+             <td></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td width="100">籍贯</td>
+             <td colspan="2"></td>
+             <td>出生年月</td>
+             <td colspan="2"></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td>户口所在地</td>
+             <td colspan="2"></td>
+             <td>婚否</td>
+             <td width="100"></td>
+             <td>民族</td>
+             <td></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td>身份证号码</td>
+             <td colspan="2"></td>
+             <td>现居住地址</td>
+             <td colspan="3"></td>
+         </tr>            
+         <tr height="50" style="text-align: center;">
+             <td>毕业院校</td>
+             <td colspan="3"></td>
+             <td>毕业时间</td>
+             <td colspan="2"></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td>学习专业</td>
+             <td colspan="3"></td>
+             <td>爱好特长</td>
+             <td colspan="2"></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td rowspan="2">个人简介</td>
+             <td colspan="6" rowspan="2"></td>
+         <tr height="50" style="text-align: center;">            
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td>就学时间</td>
+             <td colspan="2">学校</td>
+             <td>学年</td>
+             <td>学历</td>
+             <td>专业</td>
+             <td>担任职务</td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td></td>
+             <td colspan="2"></td>
+             <td></td>
+             <td></td>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td></td>
+             <td colspan="2"></td>
+             <td></td>
+             <td></td>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td>英语应用水平</td>
+             <td colspan="3"></td>
+             <td>职业期望</td>
+             <td colspan="2"></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td>计算机应用水平</td>
+             <td colspan="3"></td>
+             <td>生活要求</td>
+             <td colspan="2"></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td rowspan="4">工作经历</td>
+             <td>时间</td>
+             <td colspan="3">工作地点</td>
+             <td colspan="2">职务</td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td ></td>
+             <td colspan="3"></td>
+             <td colspan="2"></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td ></td>
+             <td colspan="3"></td>
+             <td colspan="2"></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td ></td>
+             <td colspan="3"></td>
+             <td colspan="2"></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td>待遇要求</td>
+             <td colspan="6"></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td rowspan="2">联系方式</td>
+             <td>固定电话</td>
+             <td></td>
+             <td>现在住址</td>
+             <td></td>
+             <td>邮编</td>
+             <td></td>
+         </tr>
+         <tr height="50" style="text-align: center;">
+             <td>紧急联系人</td>
+             <td></td>
+             <td>与本人关系</td>
+             <td></td>
+             <td>联系电话</td>
+             <td></td>
+         </tr>    
+         <tr height="50" style="text-align: center;">
+             <td rowspan="2">自我评价</td>
+             <td colspan="6" rowspan="2"></td>
+         <tr height="50" style="text-align: center;">            
+         </tr>    
+     </table>
+ </body>
+ </html>
